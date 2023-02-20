@@ -1,0 +1,44 @@
+{
+	"result": [{
+			"name": "Help",
+			"link": "https://s18.directupload.net/images/190516/tgaa8teq.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=Help"
+		},
+        {
+			"name": "New",
+			"link": "https://s18.directupload.net/images/190516/zy6pwtgw.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=New"
+		},
+		{
+			"name": "Media",
+			"link": "https://s18.directupload.net/images/190516/lvikv33h.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=Media"
+		},
+		{
+			"name": "Group",
+            "link": "https://s18.directupload.net/images/190516/mfjo5cou.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=Group"
+		},
+		{
+			"name": "Mention",
+			"link": "https://s18.directupload.net/images/190516/9ptddqmc.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=Mention"
+		},
+		{
+			"name": "Broadcast",
+            "link": "https://s18.directupload.net/images/190516/e7eqnkk8.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=Broadcast"
+		},
+		{
+			"name": "About",
+            "link": "https://s18.directupload.net/images/190516/eyd68iyd.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=About"
+		},
+		{
+			"name": "Settings",
+			"link": "https://s18.directupload.net/images/190516/t9msyh5q.gif",
+			"linkliff": "line://app/1602687308-GXq4Vvk9?type=text&text=Settings"
+		
+		}
+	]
+}

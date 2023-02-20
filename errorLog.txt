@@ -1,0 +1,361 @@
+
+[Minggu, 04 - November - 2018 | 10:09:02] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 11:54:05] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 13:15:24] TalkException(parameterMap={'2': 'cb754698f7c0605f788b3a99067963728'}, code=10, reason='You are not related to group: cb754698f7c0605f788b3a99067963728')
+[Minggu, 04 - November - 2018 | 13:22:27] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 17:04:35] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 17:46:53] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 18:15:01] 'NoneType' object does not support item assignment
+[Minggu, 04 - November - 2018 | 19:00:42] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 19:29:56] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 21:01:33] Invalid mids
+[Minggu, 04 - November - 2018 | 21:39:21] 'in <string>' requires string as left operand, not list
+[Senin, 05 - November - 2018 | 09:23:51] local variable 'hasil' referenced before assignment
+[Senin, 05 - November - 2018 | 09:27:54] TalkException(code=10, parameterMap={'2': 'cb754698f7c0605f788b3a99067963728'}, reason='You are not related to group: cb754698f7c0605f788b3a99067963728')
+[Senin, 05 - November - 2018 | 09:27:54] 'in <string>' requires string as left operand, not list
+[Senin, 05 - November - 2018 | 10:19:02] Download file failure.
+[Senin, 05 - November - 2018 | 10:43:15] 'NoneType' object does not support item assignment
+[Senin, 05 - November - 2018 | 11:46:56] Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+[Senin, 05 - November - 2018 | 17:09:45] local variable 'url' referenced before assignment
+[Senin, 05 - November - 2018 | 20:05:58] HTTPSConnectionPool(host='api.eater.tech', port=443): Max retries exceeded with url: /wallp/hinata (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7efdd1e86668>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+[Senin, 05 - November - 2018 | 20:40:55] Download object failure.
+[Senin, 05 - November - 2018 | 21:04:19] Download object failure.
+[Senin, 05 - November - 2018 | 21:04:53] Download object failure.
+[Senin, 05 - November - 2018 | 22:29:40] HTTPSConnectionPool(host='noxtapi.inth.red', port=443): Max retries exceeded with url: /bounzen (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f672c787358>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Senin, 05 - November - 2018 | 23:28:42] 'list' object has no attribute 'startswith'
+[Senin, 05 - November - 2018 | 23:37:54] 'list' object has no attribute 'startswith'
+[Senin, 05 - November - 2018 | 23:39:24] Download object failure.
+[Selasa, 06 - November - 2018 | 00:19:53] local variable 'contact' referenced before assignment
+[Selasa, 06 - November - 2018 | 00:30:06] 'list' object has no attribute 'startswith'
+[Rabu, 27 - 02 - 2019 | 15:43:56] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:43:56] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:43:56] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:43:56] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:43:58] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:43:58] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:43:59] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:00] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:00] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:04] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:18] name 'contacts' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:18] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:19] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:20] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:20] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:20] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:21] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:21] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:21] name 'contacts' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:22] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:23] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:24] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:27] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:33] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:42] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:44] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:49] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:44:55] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:06] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:10] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:11] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:12] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:17] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:24] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:46] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:47] name 'contacts' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:47] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:47] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:49] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:54] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:45:57] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:00] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:11] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:12] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:14] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:16] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:20] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:41] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:41] name 'contacts' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:41] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:42] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:43] name 'contacts' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:43] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:44] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:44] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:44] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:44] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:45] name 'stickers1' is not defined
+[Rabu, 27 - 02 - 2019 | 15:46:46] name 'stickers1' is not defined
+[Sabtu, 02 - 05 - 2020 | 01:55:21] 'in <string>' requires string as left operand, not list
+[Sabtu, 02 - 05 - 2020 | 02:08:41] 'in <string>' requires string as left operand, not list
+[Sabtu, 02 - 05 - 2020 | 02:10:05] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1643727178', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=ljp4q8kzlDHZ0AFDPBLEIw&client_id=1643727178&scope=chat_message.write+profile&redirect_uri=https%3A%2F%2Fjustanolep.xyz%2Fliff%2Findex.html&response_type=code&prompt=consent&type=LL')))
+[Rabu, 06 - 05 - 2020 | 02:13:52] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 06 - 05 - 2020 | 09:49:16] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1643727178', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=34q-p_aCDmv0J4qdIKPx6g&client_id=1643727178&scope=chat_message.write+profile&redirect_uri=https%3A%2F%2Fjustanolep.xyz%2Fliff%2Findex.html&response_type=code&prompt=consent&type=LL')))
+[Rabu, 06 - 05 - 2020 | 09:49:59] 'in <string>' requires string as left operand, not list
+[Rabu, 06 - 05 - 2020 | 10:09:23] TalkException(code=20, reason='', parameterMap={})
+[<module 'time' (built-in)>] name 'sppam' is not defined
+[Rabu, 06 - 05 - 2020 | 21:48:34] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Rabu, 06 - 05 - 2020 | 22:00:31] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=8i4IVzZRT9QZFeQKQuZgCg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[Rabu, 06 - 05 - 2020 | 22:07:36] must be str, not NoneType
+[Rabu, 06 - 05 - 2020 | 22:09:04] must be str, not NoneType
+[Rabu, 06 - 05 - 2020 | 22:13:13] local variable 'ret_' referenced before assignment
+[Rabu, 06 - 05 - 2020 | 22:14:48] TalkException(code=0, reason='text is null', parameterMap=None)
+[Rabu, 06 - 05 - 2020 | 22:20:48] must be str, not NoneType
+[Rabu, 06 - 05 - 2020 | 22:31:38] 'in <string>' requires string as left operand, not list
+[Rabu, 06 - 05 - 2020 | 22:31:38] TalkException(code=10, reason='You are not related to group: c4f43beb832543e48276a0186509ec1f4', parameterMap={'2': 'c4f43beb832543e48276a0186509ec1f4'})
+[Rabu, 06 - 05 - 2020 | 22:31:39] 'in <string>' requires string as left operand, not list
+[Rabu, 06 - 05 - 2020 | 22:48:18] 'in <string>' requires string as left operand, not list
+[Rabu, 06 - 05 - 2020 | 23:02:43] HTTPSConnectionPool(host='api.eater.pw', port=443): Max retries exceeded with url: /wallp/memek (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f15e077fda0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Rabu, 06 - 05 - 2020 | 23:04:34] 'items'
+[Rabu, 06 - 05 - 2020 | 23:04:42] 'items'
+[Rabu, 06 - 05 - 2020 | 23:07:51] list index out of range
+[Rabu, 06 - 05 - 2020 | 23:08:40] list index out of range
+[Rabu, 06 - 05 - 2020 | 23:08:56] list index out of range
+[Rabu, 06 - 05 - 2020 | 23:11:49] HTTPConnectionPool(host='api.zicor.ooo', port=80): Max retries exceeded with url: /joox.php?song=examplee%20kemarin (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f15e02ee780>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Rabu, 06 - 05 - 2020 | 23:17:32] 'me'
+[Rabu, 06 - 05 - 2020 | 23:25:05] must be str, not NoneType
+[Kamis, 07 - 05 - 2020 | 02:43:50] name 'sender' is not defined
+[Kamis, 07 - 05 - 2020 | 12:34:09] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=C-d5xQoDtuMcpWsXp3QHlg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[Kamis, 07 - 05 - 2020 | 12:34:19] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=SqCNlujvrPyY9PTdVtWPWw&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[Kamis, 07 - 05 - 2020 | 20:05:26] 'in <string>' requires string as left operand, not list
+[Kamis, 07 - 05 - 2020 | 22:48:46] 'info'
+[Kamis, 07 - 05 - 2020 | 22:48:56] 'info'
+[Kamis, 07 - 05 - 2020 | 23:34:09] 'in <string>' requires string as left operand, not list
+[Kamis, 07 - 05 - 2020 | 23:36:40] 'in <string>' requires string as left operand, not list
+[Jumat, 08 - 05 - 2020 | 01:25:23] list index out of range
+[Jumat, 08 - 05 - 2020 | 01:25:40] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Jumat, 08 - 05 - 2020 | 01:26:59] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Jumat, 08 - 05 - 2020 | 10:44:42] 'in <string>' requires string as left operand, not list
+[Jumat, 08 - 05 - 2020 | 10:48:48] list index out of range
+[Jumat, 08 - 05 - 2020 | 10:54:19] list index out of range
+[Jumat, 08 - 05 - 2020 | 11:51:43] 'in <string>' requires string as left operand, not list
+[Jumat, 08 - 05 - 2020 | 12:00:14] list index out of range
+[Jumat, 08 - 05 - 2020 | 15:22:08] 'in <string>' requires string as left operand, not list
+[Jumat, 08 - 05 - 2020 | 20:24:02] 'in <string>' requires string as left operand, not list
+[Jumat, 08 - 05 - 2020 | 22:16:23] 'in <string>' requires string as left operand, not list
+[Sabtu, 09 - 05 - 2020 | 00:53:20] 'in <string>' requires string as left operand, not list
+[Sabtu, 09 - 05 - 2020 | 10:59:06] Error change video and picture profile [Errno 2] No such file or directory: 'TeamAnuBot.mp4'
+[Sabtu, 09 - 05 - 2020 | 15:58:42] 'in <string>' requires string as left operand, not list
+[Sabtu, 09 - 05 - 2020 | 15:59:12] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Sabtu, 09 - 05 - 2020 | 15:59:44] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Sabtu, 09 - 05 - 2020 | 15:59:53] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Sabtu, 09 - 05 - 2020 | 16:00:16] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Sabtu, 09 - 05 - 2020 | 22:47:16] 'in <string>' requires string as left operand, not list
+[Minggu, 10 - 05 - 2020 | 11:13:20] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[Minggu, 10 - 05 - 2020 | 13:11:40] must be str, not NoneType
+[Minggu, 10 - 05 - 2020 | 13:12:25] must be str, not NoneType
+[Minggu, 10 - 05 - 2020 | 16:31:27] 'in <string>' requires string as left operand, not list
+[Minggu, 10 - 05 - 2020 | 17:22:25] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Minggu, 10 - 05 - 2020 | 18:38:27] HTTPConnectionPool(host='api.zicor.ooo', port=80): Max retries exceeded with url: /lstickers.php?search=tuyul%20 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fba32b22a90>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Minggu, 10 - 05 - 2020 | 18:39:02] Expecting value: line 1 column 1 (char 0)
+[Minggu, 10 - 05 - 2020 | 18:44:12] 'in <string>' requires string as left operand, not list
+[Minggu, 10 - 05 - 2020 | 18:45:02] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[Minggu, 10 - 05 - 2020 | 18:47:29] HTTPSConnectionPool(host='api.eater.pw', port=443): Max retries exceeded with url: /googleimg/susu (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fba3261c198>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Minggu, 10 - 05 - 2020 | 18:48:15] 'bool' object does not support item assignment
+[Minggu, 10 - 05 - 2020 | 18:54:58] [Errno 2] No such file or directory: 'tmp/anu '
+[Minggu, 10 - 05 - 2020 | 18:57:26] list index out of range
+[Minggu, 10 - 05 - 2020 | 18:58:46] HTTPSConnectionPool(host='api.eater.pw', port=443): Max retries exceeded with url: /wallp/susu (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fba32621cc0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Minggu, 10 - 05 - 2020 | 18:59:59] HTTPSConnectionPool(host='api.eater.pw', port=443): Max retries exceeded with url: /googleimg/pemandangan%20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fba326212b0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Minggu, 10 - 05 - 2020 | 19:00:53] 'items'
+[Minggu, 10 - 05 - 2020 | 19:01:02] 'items'
+[Minggu, 10 - 05 - 2020 | 19:02:08] list index out of range
+[Minggu, 10 - 05 - 2020 | 19:02:43] list index out of range
+[Minggu, 10 - 05 - 2020 | 19:02:54] list index out of range
+[Minggu, 10 - 05 - 2020 | 19:03:54] list index out of range
+[Minggu, 10 - 05 - 2020 | 19:04:12] list index out of range
+[Minggu, 10 - 05 - 2020 | 19:04:38] HTTPConnectionPool(host='api.zicor.ooo', port=80): Max retries exceeded with url: /joox.php?song=examplee (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fba3240fb00>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Minggu, 10 - 05 - 2020 | 19:05:47] must be str, not NoneType
+[Minggu, 10 - 05 - 2020 | 19:41:27] 'MENTION'
+[Minggu, 10 - 05 - 2020 | 19:54:58] 'MENTION'
+[Minggu, 10 - 05 - 2020 | 21:07:33] 'in <string>' requires string as left operand, not list
+[Minggu, 10 - 05 - 2020 | 23:54:45] HTTPSConnectionPool(host='dl.profile.line.naver.jp', port=443): Max retries exceeded with url: /r/talk/p/u43b13bc70de43ba5d37111e76974b412?r=1588877699 (Caused by SSLError(CertificateError("hostname 'dl.profile.line.naver.jp' doesn't match either of 'a248.e.akamai.net', '*.akamaized-staging.net', '*.akamaized.net', '*.akamaihd-staging.net', '*.akamaihd.net'",),))
+[Senin, 11 - 05 - 2020 | 02:31:31] name 'bl' is not defined
+[Senin, 11 - 05 - 2020 | 04:09:12] name 'bl' is not defined
+[Senin, 11 - 05 - 2020 | 04:09:37] 'in <string>' requires string as left operand, not list
+[Senin, 11 - 05 - 2020 | 04:11:25] 'in <string>' requires string as left operand, not list
+[Senin, 11 - 05 - 2020 | 09:56:13] 'in <string>' requires string as left operand, not list
+[Senin, 11 - 05 - 2020 | 09:56:36] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=NvOA1AGwp7Z7YF4sBIyFZA&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[Senin, 11 - 05 - 2020 | 12:09:45] 'in <string>' requires string as left operand, not list
+[Senin, 11 - 05 - 2020 | 12:10:20] 'in <string>' requires string as left operand, not list
+[Senin, 11 - 05 - 2020 | 18:42:50] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=IN6tMqT0Th5oOmxsenOlNg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[Senin, 11 - 05 - 2020 | 22:04:15] 'in <string>' requires string as left operand, not list
+[Selasa, 12 - 05 - 2020 | 00:26:46] name 'bl' is not defined
+[Selasa, 12 - 05 - 2020 | 00:28:06] name 'bl' is not defined
+[Selasa, 12 - 05 - 2020 | 08:08:49] 'in <string>' requires string as left operand, not list
+[Selasa, 12 - 05 - 2020 | 13:15:08] name 'sendSticker2' is not defined
+[Selasa, 12 - 05 - 2020 | 13:41:42] 'in <string>' requires string as left operand, not list
+[Selasa, 12 - 05 - 2020 | 15:25:23] name 'sendSticker2' is not defined
+[Rabu, 13 - 05 - 2020 | 06:25:15] 'jskick1'
+[Rabu, 13 - 05 - 2020 | 06:27:54] 'jskick1'
+[Rabu, 13 - 05 - 2020 | 06:28:04] 'jskick1'
+[Rabu, 13 - 05 - 2020 | 06:29:08] 'jskick1'
+[Rabu, 13 - 05 - 2020 | 06:29:18] 'jskick1'
+[Rabu, 13 - 05 - 2020 | 06:43:38] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1643727178', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=nOulpzkQpfnGJ-esgQ8svg&client_id=1643727178&scope=chat_message.write+profile&redirect_uri=https%3A%2F%2Fjustanolep.xyz%2Fliff%2Findex.html&response_type=code&prompt=consent&type=LL')))
+[Rabu, 13 - 05 - 2020 | 06:44:47] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1643727178', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=jKyswZMA6h4im-iAGX4Dnw&client_id=1643727178&scope=chat_message.write+profile&redirect_uri=https%3A%2F%2Fjustanolep.xyz%2Fliff%2Findex.html&response_type=code&prompt=consent&type=LL')))
+[Rabu, 13 - 05 - 2020 | 16:47:36] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Rabu, 13 - 05 - 2020 | 20:41:41] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Kamis, 14 - 05 - 2020 | 14:17:41] list index out of range
+[Senin, 18 - 05 - 2020 | 21:47:13] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Selasa, 19 - 05 - 2020 | 00:17:48] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Rabu, 20 - 05 - 2020 | 14:14:17] local variable 'G' referenced before assignment
+[Rabu, 20 - 05 - 2020 | 14:26:16] 'str' object has no attribute 'members'
+[Rabu, 20 - 05 - 2020 | 14:34:29] 'str' object has no attribute 'members'
+[Rabu, 20 - 05 - 2020 | 14:37:55] 'str' object has no attribute 'members'
+[Rabu, 20 - 05 - 2020 | 14:41:28] name 'group' is not defined
+[Rabu, 20 - 05 - 2020 | 14:43:51] local variable 'G' referenced before assignment
+[Rabu, 20 - 05 - 2020 | 14:47:07] 'str' object has no attribute 'mid'
+[Rabu, 20 - 05 - 2020 | 14:50:44] TalkException(code=9, reason='invalid mid', parameterMap=None)
+[Rabu, 20 - 05 - 2020 | 14:54:19] local variable 'x' referenced before assignment
+[Rabu, 20 - 05 - 2020 | 14:56:56] 'str' object has no attribute 'contact'
+[Rabu, 20 - 05 - 2020 | 15:04:09] 'list' object has no attribute 'members'
+[Rabu, 20 - 05 - 2020 | 16:03:59] name 'self' is not defined
+[Rabu, 20 - 05 - 2020 | 16:29:15] 'str' object has no attribute 'members'
+[Rabu, 20 - 05 - 2020 | 16:38:52] 'str' object has no attribute 'members'
+[Rabu, 20 - 05 - 2020 | 18:03:53] 'Message' object has no attribute 'to_id'
+[Rabu, 20 - 05 - 2020 | 18:20:26] list index out of range
+[Kamis, 21 - 05 - 2020 | 00:00:07] list index out of range
+[Kamis, 21 - 05 - 2020 | 00:02:33] list index out of range
+[Kamis, 21 - 05 - 2020 | 09:03:21] HTTPSConnectionPool(host='dl.profile.line.naver.jp', port=443): Max retries exceeded with url: /r/talk/p/u6b1eb6b93933624f546ed167fdeeb5d8?r=1589983934 (Caused by SSLError(CertificateError("hostname 'dl.profile.line.naver.jp' doesn't match either of 'a248.e.akamai.net', '*.akamaized-staging.net', '*.akamaized.net', '*.akamaihd-staging.net', '*.akamaihd.net'",),))
+[Kamis, 21 - 05 - 2020 | 10:12:39] 'MENTION'
+[Kamis, 21 - 05 - 2020 | 14:29:34] 'MENTION'
+[Kamis, 21 - 05 - 2020 | 19:11:52] 'MENTION'
+[Kamis, 21 - 05 - 2020 | 19:15:23] 'MENTION'
+[Kamis, 21 - 05 - 2020 | 19:23:49] 'MENTION'
+[Kamis, 21 - 05 - 2020 | 19:52:22] 'MENTION'
+[Kamis, 21 - 05 - 2020 | 21:58:44] 'MENTION'
+[Jumat, 22 - 05 - 2020 | 00:32:13] Invalid mids
+[Jumat, 22 - 05 - 2020 | 00:35:26] 'MENTION'
+[Jumat, 22 - 05 - 2020 | 00:43:49] name 'bl' is not defined
+[Jumat, 22 - 05 - 2020 | 01:14:17] 'MENTION'
+[Jumat, 22 - 05 - 2020 | 01:29:01] 'MENTION'
+[Jumat, 22 - 05 - 2020 | 02:11:07] name 'bl' is not defined
+[Jumat, 22 - 05 - 2020 | 09:39:06] 'in <string>' requires string as left operand, not list
+[Jumat, 22 - 05 - 2020 | 10:57:37] 'in <string>' requires string as left operand, not list
+[Jumat, 22 - 05 - 2020 | 15:32:09] 'MENTION'
+[Jumat, 22 - 05 - 2020 | 15:32:28] name 'sendSticker2' is not defined
+[Jumat, 22 - 05 - 2020 | 15:32:28] name 'sendSticker2' is not defined
+[Jumat, 22 - 05 - 2020 | 15:32:28] name 'sendSticker2' is not defined
+[Jumat, 22 - 05 - 2020 | 15:32:28] name 'sendSticker2' is not defined
+[Jumat, 22 - 05 - 2020 | 15:32:28] name 'sendSticker2' is not defined
+[Jumat, 22 - 05 - 2020 | 15:32:28] name 'sendSticker2' is not defined
+[Jumat, 22 - 05 - 2020 | 20:09:10] 'MENTION'
+[Jumat, 22 - 05 - 2020 | 21:06:40] name 'apolo' is not defined
+[Jumat, 22 - 05 - 2020 | 21:12:31] name 'owner' is not defined
+[Jumat, 22 - 05 - 2020 | 21:14:36] name 'owner' is not defined
+[Jumat, 22 - 05 - 2020 | 21:18:39] name 'staff' is not defined
+[Jumat, 22 - 05 - 2020 | 21:38:12] name 'staff' is not defined
+[Jumat, 22 - 05 - 2020 | 21:47:47] 'in <string>' requires string as left operand, not list
+[Jumat, 22 - 05 - 2020 | 23:51:56] name 'bl' is not defined
+[Jumat, 22 - 05 - 2020 | 23:52:05] name 'bl' is not defined
+[Senin, 25 - 05 - 2020 | 15:19:16] 'MENTION'
+[Senin, 25 - 05 - 2020 | 15:57:32] 'MENTION'
+[Senin, 25 - 05 - 2020 | 18:58:07] 'MENTION'
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:39] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:40] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:41] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 19:51:42] TalkException(code=10, reason='You are not related to group: c07fa97a4165ca7b06476b29e505de41f', parameterMap={'2': 'c07fa97a4165ca7b06476b29e505de41f'})
+[Senin, 25 - 05 - 2020 | 21:44:17] name 'sendSticker2' is not defined
+[Senin, 25 - 05 - 2020 | 22:55:30] 'in <string>' requires string as left operand, not list
+[Rabu, 03 - 06 - 2020 | 14:10:01] list index out of range
+[Rabu, 03 - 06 - 2020 | 14:15:20] tuple index out of range
+[Rabu, 03 - 06 - 2020 | 14:21:42] 'in <string>' requires string as left operand, not list
+[Rabu, 03 - 06 - 2020 | 14:22:02] list index out of range
+[Rabu, 03 - 06 - 2020 | 14:26:07] list index out of range
+[Rabu, 03 - 06 - 2020 | 22:09:28] 'in <string>' requires string as left operand, not list
+[Rabu, 03 - 06 - 2020 | 22:11:56] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[Rabu, 10 - 06 - 2020 | 21:10:03] Error change video and picture profile [Errno 2] No such file or directory: 'TeamAnuBot.mp4'
+[Minggu, 19 - 02 - 2023 | 00:20:08] 'NoneType' object has no attribute 'keys'
+[Minggu, 19 - 02 - 2023 | 00:20:11] 'NoneType' object has no attribute 'keys'
+[Minggu, 19 - 02 - 2023 | 00:20:12] 'NoneType' object has no attribute 'keys'
+[Minggu, 19 - 02 - 2023 | 00:20:14] 'NoneType' object has no attribute 'keys'
+[Minggu, 19 - 02 - 2023 | 01:08:54] list index out of range
+[Senin, 20 - 02 - 2023 | 00:19:46] Expecting value: line 1 column 1 (char 0)
+[Senin, 20 - 02 - 2023 | 00:20:07] Expecting value: line 1 column 1 (char 0)
+[Senin, 20 - 02 - 2023 | 00:23:23] HTTPSConnectionPool(host='api.uinames.com', port=443): Max retries exceeded with url: /api/?amount=1&region=Indonesia (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7cc757dcd0>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+[Senin, 20 - 02 - 2023 | 00:23:36] HTTPSConnectionPool(host='api.uinames.com', port=443): Max retries exceeded with url: /api/?amount=1&region=Indonesia (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7cc826b450>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+[Senin, 20 - 02 - 2023 | 00:36:20] TalkException(code=0, reason='invalid content type', parameterMap=None)
+[Senin, 20 - 02 - 2023 | 00:37:26] name 'sendFooters' is not defined
+[Senin, 20 - 02 - 2023 | 00:41:38] TalkException(code=0, reason='invalid content type', parameterMap=None)
+[Senin, 20 - 02 - 2023 | 00:49:27] Talk.giftmessage() takes 2 positional arguments but 4 were given
+[Senin, 20 - 02 - 2023 | 00:52:59] Talk.giftmessage() got an unexpected keyword argument 'contentMetadata'
+[Senin, 20 - 02 - 2023 | 17:51:58] HTTPConnectionPool(host='api.zicor.ooo', port=80): Max retries exceeded with url: /fwindow.php?text=reza&btype=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7d174411d0>: Failed to establish a new connection: [Errno 7] No address associated with hostname'))
+[Senin, 20 - 02 - 2023 | 17:54:31] Expecting value: line 1 column 1 (char 0)
+[Senin, 20 - 02 - 2023 | 18:00:34] can only concatenate str (not "NoneType") to str
+[Senin, 20 - 02 - 2023 | 18:13:12] 'NoneType' object has no attribute 'keys'
+[Senin, 20 - 02 - 2023 | 18:44:40] list index out of range
+[Senin, 20 - 02 - 2023 | 18:49:12] TalkException(code=0, reason='can not kick self out', parameterMap={})
+[Senin, 20 - 02 - 2023 | 18:49:32] sendFooter() got an unexpected keyword argument 'text'
+[Senin, 20 - 02 - 2023 | 18:50:05] cannot access local variable 'hasil' where it is not associated with a value
